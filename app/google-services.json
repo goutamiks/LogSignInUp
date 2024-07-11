@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633387309340",
+    "project_id": "logsigninup-ce850",
+    "storage_bucket": "logsigninup-ce850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633387309340:android:5df8a50f905fc60b9f02d9",
+        "android_client_info": {
+          "package_name": "com.example.logsigninup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvrZkz9xQSinIv1CpOAUk48TDI1PP4GKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
